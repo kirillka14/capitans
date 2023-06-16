@@ -1,0 +1,15 @@
+C:\Users\st310-04\Desktop\Csezar\obj\Debug\net6.0\Csezar.csproj.AssemblyReference.cache
+C:\Users\st310-04\Desktop\Csezar\obj\Debug\net6.0\Csezar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-04\Desktop\Csezar\obj\Debug\net6.0\Csezar.AssemblyInfoInputs.cache
+C:\Users\st310-04\Desktop\Csezar\obj\Debug\net6.0\Csezar.AssemblyInfo.cs
+C:\Users\st310-04\Desktop\Csezar\obj\Debug\net6.0\Csezar.csproj.CoreCompileInputs.cache
+C:\Users\st310-04\Desktop\Csezar\bin\Debug\net6.0\Csezar.exe
+C:\Users\st310-04\Desktop\Csezar\bin\Debug\net6.0\Csezar.deps.json
+C:\Users\st310-04\Desktop\Csezar\bin\Debug\net6.0\Csezar.runtimeconfig.json
+C:\Users\st310-04\Desktop\Csezar\bin\Debug\net6.0\Csezar.dll
+C:\Users\st310-04\Desktop\Csezar\bin\Debug\net6.0\Csezar.pdb
+C:\Users\st310-04\Desktop\Csezar\obj\Debug\net6.0\Csezar.dll
+C:\Users\st310-04\Desktop\Csezar\obj\Debug\net6.0\refint\Csezar.dll
+C:\Users\st310-04\Desktop\Csezar\obj\Debug\net6.0\Csezar.pdb
+C:\Users\st310-04\Desktop\Csezar\obj\Debug\net6.0\Csezar.genruntimeconfig.cache
+C:\Users\st310-04\Desktop\Csezar\obj\Debug\net6.0\ref\Csezar.dll
